@@ -1,2 +1,5 @@
 <h1>Welcome to my page</h1>
 <p>This is my first paragraph</p>
+<style>
+body { background-color: lightgray; }
+</style>
